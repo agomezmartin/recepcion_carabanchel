@@ -1,0 +1,224 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Alberto Gómez-Martín
+title: 
+email: agomezmartinpro@gmail.com
+phone: +34 665042685
+website: https://agomezmartin.github.io/recepcion_carabanchel/
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+# twitter_username: facespics
+# github_username:  agomezmartin
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: albertogomezmartin
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: Sobre mi
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+    Profesional con experiencia en <mark>entornos internacionales</mark>, orientado a la atención al cliente, la comunicación efectiva y la coordinación operativa.
+    A lo largo de mi trayectoria he colaborado con equipos multidisciplinares, desarrollando habilidades para gestionar interacciones en contextos culturales diversos y garantizando una <mark>atención profesional, ágil y personalizada</mark>.
+    Mi perfil combina capacidad organizativa, resolución de incidencias y gestión de información con una clara vocación de servicio.
+    Destaco por mi habilidad para facilitar la comunicación entre distintos interlocutores, tanto en español como en inglés, contribuyendo a una <mark>experiencia positiva</mark> para clientes y visitantes.
+
+
+content:
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+#    EXPERIENCIA
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+  - title: Experiencia # Título de la sección
+    layout: list # Tipo de contenido (lista/texto)
+    content:
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Desarrollo profesional independiente
+        sub_title: Formación y actualización de competencias
+        caption: 2026 - Actualidad</br><mark>España</mark>
+        description: | 
+          Periodo dedicado al desarrollo profesional continuo y a la exploración de aplicaciones tecnológicas con impacto social.
+
+          - Desarrollo de proyectos propios (GitHub)
+          - Formación en programación y análisis de datos
+          - Interés en el uso de la tecnología como herramienta para la participación y la accesibilidad
+
+      - layout: left
+        title: Invesyde
+        link: https://inforyde.com/
+        link_text: inforyde.com
+        sub_title: Ingeniero de Software Junior
+        caption: Enero 2024 - Enero 2026</br><mark>Madrid, España</mark> 
+
+        description: |
+          Desarrollo de soluciones de software en el sector energético, contribuyendo a la mejora de herramientas orientadas a la eficiencia y gestión.
+
+          Trabajo en colaboración con distintos perfiles técnicos para definir soluciones adaptadas a necesidades reales.
+
+          - Desarrollo en C# y VBA
+          - Análisis de procesos y mejora continua
+          - Trabajo colaborativo con equipos técnicos
+          - Uso de Git, GitHub y Jira
+
+      - layout: left
+        title: ACOLAD
+        link: https://www.acolad.com/
+        link_text: acolad.com
+        sub_title: Líder de Servicios Técnicos | Ingeniero de Localización
+        caption: Septiembre 2018 - Septiembre 2021</br><mark>Madrid, España</mark> 
+
+        description: |
+          Coordinación técnica de proyectos en entornos internacionales, facilitando la comunicación entre equipos técnicos, lingüísticos y de gestión.
+
+          - Gestión de proyectos con múltiples stakeholders
+          - Coordinación de equipos y proveedores
+          - Análisis técnico de productos digitales
+
+          Contribución a la adaptación de contenidos a diferentes contextos culturales y lingüísticos, favoreciendo una comunicación más accesible e inclusiva.
+
+          Experiencia en documentación, formación interna y transferencia de conocimiento.
+
+      - layout: left
+        title: Transperfect
+        link: https://www.transperfect.com/
+        link_text: transperfect.com
+        sub_title: Ingeniero de Localización
+        caption: Mayo 2015 - Agosto 2018</br><mark>Madrid y Barcelona</mark>, España 
+
+        description: |
+          Participación en proyectos internacionales de localización de software.
+
+          - Evaluación técnica y preparación de contenidos
+          - Automatización de procesos
+          - Trabajo con equipos multidisciplinares
+
+          Contribución a la accesibilidad de productos digitales en distintos idiomas y contextos culturales.
+
+      - layout: left
+        title: GAMESYS LIMITED
+        link: https://www.gamesysgroup.com/
+        link_text: gamesysgroup.com
+        sub_title: Traductor y localizador
+        caption: Abril 2013 - Octubre 2014</br><mark>Londres, Reino Unido</mark> 
+
+        description: |
+            Participación en la localización de un producto digital en entorno internacional.
+
+            Primer contacto con proyectos tecnológicos reales, trabajando en equipo y adaptando contenidos a diferentes mercados.
+
+      - layout: left
+        title: The London Oratory School
+        link: https://www.london-oratory.org/
+        link_text: london-oratory.org
+        sub_title: Asistente de Lengua Española
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
+
+        description: |
+            Apoyo a estudiantes en el desarrollo de habilidades de comunicación oral.
+
+            - Adaptación a distintos perfiles
+            - Comunicación empática
+            - Dinamización de grupos
+
+      - layout: left
+        title: Lady Margaret School
+        link: https://ladymargaret.lbhf.sch.uk/
+        link_text: ladymargaret.lbhf.sch.uk<br/>
+        sub_title: Asistente de Lengua Española
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
+
+        description: |
+            Experiencia en formación y acompañamiento educativo en entornos diversos.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+#    EDUCACIÓN
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+  - title: Educación # Título de la sección
+    layout: list # Tipo de contenido (lista/texto)
+    content:
+
+      - layout: left
+        title: Imperial College London
+        caption: Octubre 2012 - Septiembre 2013</br><mark>Londres, Reino Unido</mark> 
+        sub_title: MSc Traducción Científica, Médica y Técnica con Tecnología de la Traducción
+        description: | # this will include new lines to allow paragraphs
+          Durante mi tiempo en Imperial College London (ICL) adquirí habilidades técnicas específicas de mi campo relacionadas con <mark>tecnología de la traducción</mark>.
+          
+          Gestión de proyectos, herramientas de traducción asistida por ordenador (CAT) o Traducción Automática fueron algunos de los temas que se conectaron más estrechamente con el mundo profesional.
+
+      - layout: left
+        title: University of Westminster
+        caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Grado en Traducción (Español-Inglés)
+        description: | # this will include new lines to allow paragraphs
+          El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+  - title: Perfil y Competencias Clave
+    layout: text
+    content: |
+      - Experiencia en entornos internacionales y multiculturales
+      - Coordinación de equipos y proyectos
+      - Comunicación efectiva y mediación
+      - Capacidad de aprendizaje y adaptación
+      - Sensibilidad hacia la accesibilidad, diversidad y cooperación
+
+      Interés en contribuir a iniciativas con impacto social, medioambiental y participación ciudadana.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# Footer
+
+footer_show_references: false
+# references_title: Referencias bajo petición
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
